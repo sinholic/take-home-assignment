@@ -45,6 +45,12 @@ You will be assessed based on:
 - threading safety
 - coding best practices / design patterns
 
+**Breakdown of Metrics:**<br />
+Features completed - 30%
+Time - 20%
+Code Quality 50% 
+______________________________
+
 
 **BONUS - STRETCH PROJECT**<br />
 Create a form that after submitting with the relevant interview details (interview questions, max video length) generates a unique URL that allows companies to share the link to candidates. 
