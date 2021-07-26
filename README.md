@@ -4,7 +4,7 @@ Kindly find the project assignment.
 You have 8 hours to complete your assignment. 
 Do remember to consistently push your progress so that we are able to track! 
 
-# Let's Get Started
+# Getting Started
 You will need to use the **following technologies** for the project: 
 - nodeJS for backend 
 - mongoDB for database 
@@ -32,6 +32,14 @@ Feel free to add other models that you think you may require.
 **FOR FRONTEND**
 The front-end does not need to be fancy. 
 Please use NextJS template for the frontend. 
+
+**METRICS**
+You will be assessed based on:
+- clean code
+- good design of databases etc. 
+- error handling 
+- threading safety
+- coding best practices / design patterns
 
 **BONUS - STRETCH PROJECT**
 Create a form that after submitting with the relevant interview details (interview questions, max video length) generates a unique URL that allows companies to share the link to candidates. 
