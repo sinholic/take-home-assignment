@@ -42,5 +42,9 @@ You will be assessed based on:
 - threading safety
 - coding best practices / design patterns
 
+**SUBMISSION**<br />
+Kindly submit your production ready code by **pushing to github, and deploying the final product through heroku**. 
+
+
 **BONUS - STRETCH PROJECT**<br />
 Create a form that after submitting with the relevant interview details (interview questions, max video length) generates a unique URL that allows companies to share the link to candidates. 
